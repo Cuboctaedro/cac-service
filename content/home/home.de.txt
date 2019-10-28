@@ -1,0 +1,54 @@
+Title: Home
+
+----
+
+Body:
+
+## Herzlich Willkommen bei CAC-SERVICE!
+
+Als Experten sind wir spezialisiert auf das Buchen lfd. Geschäftsvorfälle Ihrer Finanzbuchhaltung und auf die Erstellung der laufenden Lohn- und Gehaltsabrechnung. Unsere Tätigkeit erfordert ein hohes Fachwissen an steuerrechtlichen Kenntnissen, die durch permanente Fortbildung ergänzt werden.
+
+Wir benutzen moderne Informationstechnologie: Kompetenz und zuverlässig bieten wir Ihnen maßgeschneiderte Beratung. Die Kosten für diese Leistungen können Sie genau kalkulieren - ohne Ihren Betrieb mit zusätzlichen Personalkosten zu belasten.
+
+### Sie möchten ein Unterhemen gründen und wissen nicht was zu tun ist?
+Selbstverständlich beraten wir Sie dabei sehr gerne.
+
+### Konzentrieren Sie sich auf Ihr Kerngeschäft
+
+Wir bereiten Ihre Geschäftszahlen betriebswirtschaftlich auf. Dadurch ermöglichen wir Ihnen eine umfassende Analyse Ihres Unternehmens. Individuelle Zahlenübersichten und grafische Darstellungen lassen Sie auf einen Blick die aktuelle Lage Ihres Unternehmens erkennen.
+
+Die mittel-, kurz- oder langfristige Geschäftsentwicklung stellen wir auf Wunsch in aussagekräftigen Auswertungen zusammen. Regelmäßige Gespräche helfen Ihnen, die richtigen betriebswirtschaftlichen Entscheidungen zu treffen.
+
+----
+
+Activities:
+
+- 
+  activity: Finanzbuchhaltung
+- 
+  activity: Lohnbuchhaltung
+- 
+  activity: Unternehmensberatung
+
+----
+
+Coverimages:
+
+- logo-glass.jpg
+- exterior.jpg
+- keyboard.jpg
+- reception.jpg
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage:
+
+- logo-on-glass.jpg
+
+----
+
+Authortwitter: 

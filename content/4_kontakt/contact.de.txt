@@ -1,0 +1,92 @@
+Title: Kontakt
+
+----
+
+Body: 
+
+----
+
+People:
+
+- 
+  name: Anna Cammilleri
+  position: Geschäftsführerin
+  email: a.cammilleri@cac-assekuranz.de
+  portrait:
+    - anna-camillieri.jpg
+- 
+  name: Joanna Rotuska
+  position: >
+    Backoffice, Assistenz der
+    Geschäftsleitung
+  email: j.rotuska@cac-assekuranz.de
+  portrait:
+    - joanna-rotuska.jpg
+- 
+  name: Jeanine Beermann
+  position: Buchhaltung
+  email: jb@cac-service.net
+  portrait:
+    - jeanine-beermann.jpg
+- 
+  name: Bozena Prokop
+  position: Buchhaltung
+  email: b.prokop@cac-service.net
+  portrait:
+    - bozena-prokop.jpg
+- 
+  name: Natalia Rotuska
+  position: Backoffice
+  email: n.rotusk@cac-service.net
+  portrait:
+    - natalia-rotuska.jpg
+- 
+  name: Anna Boffo
+  position: Backoffice
+  email: a.boffo@cac-service.net
+  portrait:
+    - anna-boffo.jpg
+- 
+  name: Carolin Hernandez
+  position: Backoffice
+  email: backoffice@cac-service.net
+  portrait:
+    - carolin-hernandez.jpg
+
+----
+
+Coverimage:
+
+- reception.jpg
+
+----
+
+Nameerror: Please enter your name
+
+----
+
+Emailerror: Please enter your email
+
+----
+
+Phoneerror: Please enter your phone number
+
+----
+
+Impressumerror: Please agree with our data policy
+
+----
+
+Successmessage: Thank you for your message!
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: 
+
+----
+
+Authortwitter: 

@@ -1,0 +1,55 @@
+Title: Leistungen
+
+----
+
+Headertext: 
+
+----
+
+Body:
+
+## Unsere Leistungen:
+### Finanzbuchhaltung
+
+- Sortieren und kontieren Ihrer Belege, Kontoauszüge und alles weitere
+- Buchen der lfd. Geschäftsvorfälle
+- Monatliche bzw. vierteljährliche Auswertungen
+- Kontenabstimmung
+- Controlling
+- Führen Ihres Anlageverzeichnisses
+
+### Unternehmensberatung 
+- Unternehmensgründung 
+- Unternehmensliquidation 
+- Erstellung Businessplan 
+- Individuelle Strategieentwicklung, -planung und Umsetzung
+
+Alle Auswertungen können Sie per Post oder via E-Mail erhalten.
+
+### Lohnbuchhaltung
+
+- Lohn- und Gehaltsabrechnungen
+- Lohnsteueranmeldungen
+- Sozialversicherungsmeldungen
+- Nachweise und Auswertungen
+- Terminüberwachung
+
+...und vieles mehr!
+
+----
+
+Coverimage:
+
+- keyboard.jpg
+
+----
+
+Metadescription: 
+
+----
+
+Metaimage: 
+
+----
+
+Authortwitter: 
