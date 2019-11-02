@@ -205,6 +205,7 @@ module.exports = {
       '260'     : '16.25rem',
       '290'     : '18.125rem',
       '300'     : '18.75rem',
+      '400'     : '25rem',
     },
     backgroundColor: theme => theme('colors'),
     backgroundPosition: {
